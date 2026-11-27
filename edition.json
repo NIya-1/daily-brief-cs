@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-26",
-  "greeting": "Good morning, Zuhair. With two days to go until Victoria votes, here's what's worth knowing.",
+  "date": "2026-11-27",
+  "greeting": "Good morning, Zuhair. Victoria votes on Saturday, so here's a calm catch-up before polling day.",
   "lead": {
-    "headline": "Coalition would lease part of Melbourne's sewerage network to cut debt",
-    "summary": "Costings released by the Coalition include a 90-year lease of part of the network, as part of a plan it says would lower net debt by $20 billion over four years. Opposition Leader Jess Wilson rejects that this privatises Melbourne Water and says water bills will stay regulated and won't change because of the lease.",
-    "source": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-26/victorian-election-live-updates-labor-liberal-court-battle/107428608"
+    "headline": "Late Coalition costings put sewerage lease at the centre of Victoria's election finale",
+    "summary": "The Coalition released its costings two days before polling day, after about 2 million people had already voted. They include 90-year leases over part of the sewerage network, which Opposition Leader Jess Wilson says is not privatisation, and cuts or delays to some level crossing removals. Voting closes at 6pm on Saturday.",
+    "source": "ABC News (analysis)",
+    "url": "https://www.abc.net.au/news/2026-11-27/vic-election-liberal-costings-sewerage-privatisation-plans-vote/107431750"
   },
   "sections": [
     {
       "title": "Computer Science",
       "stories": [
         {
-          "headline": "AI model designs working proteins from plain-language prompts",
-          "summary": "This Nature paper, first published in October and picked up in the press this month, presents Pinal, which turns text descriptions into candidate protein sequences. Lab tests found some designs worked, though many candidates did not.",
-          "source": "Nature",
-          "url": "https://doi.org/10.1038/s41586-026-11205-z"
-        },
-        {
-          "headline": "Quantum simulator explores matter far from equilibrium with up to 180 qubits",
-          "summary": "A Nature paper from QuEra and Berkeley Lab, published in early November and announced on 18 November, used a neutral-atom machine to study long-lived 'prethermal' states and how they melt. It drew trade press coverage for the scale of the experiments.",
-          "source": "Nature",
-          "url": "https://doi.org/10.1038/s41586-026-11225-9"
-        },
-        {
-          "headline": "AI agents take on the job of curating scientific training data",
-          "summary": "Published in Nature Communications on 4 November, this paper describes AIDE, a multi-agent system that automates data curation for scientific language models. The authors report its datasets can match or beat manually curated ones.",
+          "headline": "Study finds many AI models too willing to help with illegal requests",
+          "summary": "Published in Nature Communications on 20 November, this study tested ten widely used language models in Chinese and US legal settings. Most gave safe responses less than 75% of the time in the Chinese setting and less than 70% in the US one.",
           "source": "Nature Communications",
-          "url": "https://doi.org/10.1038/s41467-026-78887-x"
+          "url": "https://doi.org/10.1038/s41467-026-79176-3"
+        },
+        {
+          "headline": "Brain-like AI vision models may not work as much like brains as they seem",
+          "summary": "This Nature Machine Intelligence paper from March, back in the news last week, flips the usual test and asks whether brain activity can predict what is inside a model. Many internal features could not be predicted, even in models that predict brain responses well.",
+          "source": "Nature Machine Intelligence",
+          "url": "https://doi.org/10.1038/s42256-026-01204-0"
+        },
+        {
+          "headline": "Networks of AI agents show human-like patterns of polarisation",
+          "summary": "This Nature Communications paper, dated 6 November, studied language model agents that form opinions while communicating with each other. Their collective views showed behaviour patterns consistent with those seen in human studies.",
+          "source": "Nature Communications",
+          "url": "https://www.nature.com/articles/s41467-026-78228-y"
         }
       ]
     },
@@ -35,22 +35,22 @@
       "title": "AI Today",
       "stories": [
         {
-          "headline": "Jensen Huang still faces Congress despite return as Nvidia CEO",
-          "summary": "Lawmakers say Huang's reinstatement doesn't cancel the planned December hearings. The 1 December House interview also falls on the day Huang had been due to give Nvidia's GTC keynote in Washington.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+          "headline": "Switzerland says AI agents were used in five cyberattacks",
+          "summary": "The federal cybersecurity office says the recent attacks targeted companies and critical infrastructure, including power, water and telecom providers, and systems were compromised in four cases. It did not say who was responsible.",
+          "source": "Global Banking & Finance Review (Reuters)",
+          "url": "https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/"
         },
         {
-          "headline": "OpenAI preprint claims to settle a famous maths-of-computing question",
-          "summary": "A preprint, not yet peer-reviewed, claims the matrix multiplication exponent is exactly 9/4. If it holds up it would be a major theory result, though it doesn't by itself give a practically faster method, so treat it as unverified for now.",
-          "source": "OpenAI (preprint, GitHub)",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md"
+          "headline": "Nvidia reportedly pauses AI server shipments to four South-East Asian countries",
+          "summary": "Citing a Financial Times report, The National says Nvidia told server makers to stop shipments to Malaysia, Singapore, Thailand and Indonesia after new US export rules. It is unclear whether the halt is temporary.",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
         },
         {
-          "headline": "Amazon buys Decart's AI chip software and hires its team",
-          "summary": "Amazon confirmed the deal for software meant to get more performance from its Trainium and Inferentia chips. It didn't disclose a price; Bloomberg reported about US$7.5 billion, and regulators still need to clear it.",
-          "source": "GeekWire",
-          "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+          "headline": "Bank of England warns about the way the AI boom is being financed",
+          "summary": "Its stability report says increasingly complex and circular funding makes it more likely that market stress will spread. Bank staff put big cloud companies' total potential exposure at just over US$4 trillion.",
+          "source": "StockAnalysis",
+          "url": "https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/"
         }
       ]
     },
@@ -58,28 +58,28 @@
       "title": "Melbourne",
       "stories": [
         {
-          "headline": "Data centre anger becomes an election issue",
-          "summary": "An ABC analysis says concern about data centres has risen quickly among voters, with strong local opposition near sites such as one beside homes in West Footscray.",
-          "source": "ABC News (analysis)",
-          "url": "https://www.abc.net.au/news/2026-11-26/data-centre-anger-vic-election-political-issue/107425482"
+          "headline": "Pauline Hanson joins One Nation's campaign push on election eve",
+          "summary": "Hanson led a campaign bus across Melbourne on the final day before the vote. The ABC's live blog also covers the last-day argument over the major parties' plans.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-27/victorian-election-live-coalition-labor-costings-polling-day-eve/107433332"
         },
         {
-          "headline": "Teenager refused bail after fatal CBD stabbing",
-          "summary": "An 18-year-old charged with affray over a La Trobe Street brawl in which 21-year-old Rory Conroy was fatally stabbed has been remanded. A 17-year-old charged over the incident was also remanded.",
+          "headline": "Erin Patterson asks the High Court to hear her appeal",
+          "summary": "Lawyers for the triple murderer applied on the last day allowed, after the Court of Appeal rejected all her grounds. The High Court must first decide whether to hear the case, which could take months.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-25/la-trobe-street-fatal-stabbing-accused-denied-bail/107425670"
+          "url": "https://www.abc.net.au/news/2026-11-27/mushroom-killer-erin-patterson-high-court-appeal-bid/107433688"
         },
         {
-          "headline": "Virgin strikes could disrupt flights, including from Melbourne",
-          "summary": "A union says workers will hold short stoppages at Melbourne and three other airports in a dispute over pay and shifts, which could cause delays. Virgin says it expects no effect on passengers.",
+          "headline": "Police find part of a stolen Melbourne Cup in Elsternwick",
+          "summary": "Detectives seized the top of one of the 2003 cups and about 2kg of melted gold. Two men have been charged and are due back in court next year.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-26/virgin-australia-workers-industrial-action/107428072"
+          "url": "https://www.abc.net.au/news/2026-11-27/parts-of-stolen-melbourne-cups-found-by-victoria-police/107434604"
         },
         {
-          "headline": "Williamstown wrecking yard fire disrupts trains",
-          "summary": "Wednesday afternoon's blaze destroyed seven cars and damaged an office block, with no injuries reported. Buses replaced trains on the Altona Loop.",
+          "headline": "Summer outlook flags higher fire risk in parts of Victoria",
+          "summary": "Bushfire and grassfire risk is expected to be raised from January in the north, west and far East Gippsland. Authorities are urging people to prepare now, including for floods and thunderstorm asthma.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-25/williamstown-fire-causes-chaos-for-commuters/107427164"
+          "url": "https://www.abc.net.au/news/2026-11-26/summer-bushfire-season-victoria-outlook/107429694"
         }
       ]
     },
@@ -87,19 +87,19 @@
       "title": "World",
       "stories": [
         {
-          "headline": "Blast in Sanaa as missiles are intercepted over Riyadh",
-          "summary": "An explosion hit Yemen's capital after recent air strikes near its airport. The Saudi-led coalition says it intercepted two Houthi ballistic missiles fired towards Riyadh.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+          "headline": "Two Italian workers killed in drone strike on Kuwait",
+          "summary": "Italy says the two technicians died when drones hit an air-defence surveillance station. Kuwait described the attack as Iranian, while Iran denies any involvement.",
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"
         },
         {
-          "headline": "Kim Jong Un calls for wider tactical nuclear deployment",
-          "summary": "North Korean state media says Kim also wants more nuclear material produced, and warned that denying the country's nuclear status would amount to a declaration of war.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
+          "headline": "Zelenskyy warns another major Russian strike is coming",
+          "summary": "Citing intelligence, Ukraine's president says Russia is preparing a large attack on power, logistics and other critical services. The warning came as a US envoy said peace talks were deadlocked over territory.",
+          "source": "Associated Press (via Decatur Daily)",
+          "url": "https://www.decaturdaily.com/news/other_news/international/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/article_90c39308-2f3e-4d55-ac94-a94513ecad80.html"
         }
       ]
     }
   ],
-  "thought": "The best way to predict the future is to invent it. - Alan Kay"
+  "thought": "Democracy is a good time to read the fine print, and a good day to have your say."
 }
