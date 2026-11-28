@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-27",
-  "greeting": "Good morning, Zuhair. Victoria votes on Saturday, so here's a calm catch-up before polling day.",
+  "date": "2026-11-28",
+  "greeting": "Good morning, Zuhair. It's been a stormy Saturday of voting in Victoria, so here's a clear catch-up.",
   "lead": {
-    "headline": "Late Coalition costings put sewerage lease at the centre of Victoria's election finale",
-    "summary": "The Coalition released its costings two days before polling day, after about 2 million people had already voted. They include 90-year leases over part of the sewerage network, which Opposition Leader Jess Wilson says is not privatisation, and cuts or delays to some level crossing removals. Voting closes at 6pm on Saturday.",
-    "source": "ABC News (analysis)",
-    "url": "https://www.abc.net.au/news/2026-11-27/vic-election-liberal-costings-sewerage-privatisation-plans-vote/107431750"
+    "headline": "Victoria heads into the count with Labor tipped to lose after 12 years",
+    "summary": "ABC analysts expected, before polls closed at 6pm Saturday, that Labor would be defeated barring an unprecedented polling miss, with the Coalition likely to win a majority. One Nation's rise makes some seats harder to call, and all 88 results may not be known until the second week of December. This edition was compiled before any results.",
+    "source": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-results-what-you-need-to-know/107435176"
   },
   "sections": [
     {
       "title": "Computer Science",
       "stories": [
         {
-          "headline": "Study finds many AI models too willing to help with illegal requests",
-          "summary": "Published in Nature Communications on 20 November, this study tested ten widely used language models in Chinese and US legal settings. Most gave safe responses less than 75% of the time in the Chinese setting and less than 70% in the US one.",
-          "source": "Nature Communications",
-          "url": "https://doi.org/10.1038/s41467-026-79176-3"
+          "headline": "Google's quantum chip beats classical limits in a coordination game",
+          "summary": "In a Science paper dated 19 November, Google's team tested a quantum property called contextuality on tasks of up to 105 qubits. Google says its processor won the 'magic square' game 98.3% of the time, above the classical limit of about 88.9%, and the work has drawn tech press coverage.",
+          "source": "Science",
+          "url": "https://www.science.org/doi/10.1126/science.aec3042"
         },
         {
-          "headline": "Brain-like AI vision models may not work as much like brains as they seem",
-          "summary": "This Nature Machine Intelligence paper from March, back in the news last week, flips the usual test and asks whether brain activity can predict what is inside a model. Many internal features could not be predicted, even in models that predict brain responses well.",
-          "source": "Nature Machine Intelligence",
-          "url": "https://doi.org/10.1038/s42256-026-01204-0"
+          "headline": "One optical layer computes 100 functions at once",
+          "summary": "UCLA researchers report in Light: Science & Applications that a single light-shaping layer can calculate nonlinear functions without special nonlinear materials. In a visible-light test it handled 100 functions in one pass, and the work was in tech news this week.",
+          "source": "Light: Science & Applications",
+          "url": "https://doi.org/10.1038/s41377-026-02560-7"
         },
         {
-          "headline": "Networks of AI agents show human-like patterns of polarisation",
-          "summary": "This Nature Communications paper, dated 6 November, studied language model agents that form opinions while communicating with each other. Their collective views showed behaviour patterns consistent with those seen in human studies.",
-          "source": "Nature Communications",
-          "url": "https://www.nature.com/articles/s41467-026-78228-y"
+          "headline": "Deep learning finds a heart-trace warning sign for sudden cardiac death",
+          "summary": "This Nature paper, back in the news this month, trained a model on more than 440,000 ECGs from Sweden and tested it on US and Taiwanese data. It picked out a higher-risk group than conventional measures did, which could one day help decide who gets an implanted defibrillator.",
+          "source": "Nature",
+          "url": "https://doi.org/10.1038/s41586-026-10674-6"
         }
       ]
     },
@@ -35,22 +35,22 @@
       "title": "AI Today",
       "stories": [
         {
-          "headline": "Switzerland says AI agents were used in five cyberattacks",
-          "summary": "The federal cybersecurity office says the recent attacks targeted companies and critical infrastructure, including power, water and telecom providers, and systems were compromised in four cases. It did not say who was responsible.",
-          "source": "Global Banking & Finance Review (Reuters)",
-          "url": "https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/"
+          "headline": "OpenAI countersues Apple over trade secrets",
+          "summary": "OpenAI accuses Apple of stealing trade secrets and blocking its access to hardware suppliers. The filing answers Apple's July lawsuit, whose allegations OpenAI denies.",
+          "source": "Al Jazeera (Reuters)",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
         },
         {
-          "headline": "Nvidia reportedly pauses AI server shipments to four South-East Asian countries",
-          "summary": "Citing a Financial Times report, The National says Nvidia told server makers to stop shipments to Malaysia, Singapore, Thailand and Indonesia after new US export rules. It is unclear whether the halt is temporary.",
-          "source": "The National",
-          "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
+          "headline": "Banned Nvidia AI chips reportedly turn up in Shanghai",
+          "summary": "Citing Bloomberg's review of Chinese filings, The Decoder reports that two companies installed Blackwell hardware at a Shanghai data centre. Sending these chips to China without a US licence is banned.",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
         },
         {
-          "headline": "Bank of England warns about the way the AI boom is being financed",
-          "summary": "Its stability report says increasingly complex and circular funding makes it more likely that market stress will spread. Bank staff put big cloud companies' total potential exposure at just over US$4 trillion.",
-          "source": "StockAnalysis",
-          "url": "https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/"
+          "headline": "AI shopping agents run into retailers' locked doors",
+          "summary": "Some retailers welcome AI agents, but Amazon blocks outside ones and others including eBay limit or block them. A Visa study found agents failed about 43% of test runs.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
         }
       ]
     },
@@ -58,28 +58,22 @@
       "title": "Melbourne",
       "stories": [
         {
-          "headline": "Pauline Hanson joins One Nation's campaign push on election eve",
-          "summary": "Hanson led a campaign bus across Melbourne on the final day before the vote. The ABC's live blog also covers the last-day argument over the major parties' plans.",
+          "headline": "Storms close voting centres on election day",
+          "summary": "Flooding shut a voting centre at Keysborough Gardens Primary School, and heavy rain closed another in Wodonga. Earlier, the SES reported more than 400 callouts in 24 hours.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-27/victorian-election-live-coalition-labor-costings-polling-day-eve/107433332"
+          "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-live-updates-voting-results-seat-count/107418038"
         },
         {
-          "headline": "Erin Patterson asks the High Court to hear her appeal",
-          "summary": "Lawyers for the triple murderer applied on the last day allowed, after the Court of Appeal rejected all her grounds. The High Court must first decide whether to hear the case, which could take months.",
+          "headline": "House collapses in McCrae landslide",
+          "summary": "The empty house on the Mornington Peninsula gave way after heavy rain. Neighbours were evacuated safely, no one was reported hurt, and emergency services warn the slope could move again.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-27/mushroom-killer-erin-patterson-high-court-appeal-bid/107433688"
+          "url": "https://www.abc.net.au/news/2026-11-28/landslide-mccrae-mornington-peninsula-warning/107437814"
         },
         {
-          "headline": "Police find part of a stolen Melbourne Cup in Elsternwick",
-          "summary": "Detectives seized the top of one of the 2003 cups and about 2kg of melted gold. Two men have been charged and are due back in court next year.",
+          "headline": "North Melbourne seals an AFLW three-peat",
+          "summary": "The Kangaroos beat Melbourne in a thrilling grand final on Friday night to win their third premiership in a row.",
           "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-27/parts-of-stolen-melbourne-cups-found-by-victoria-police/107434604"
-        },
-        {
-          "headline": "Summer outlook flags higher fire risk in parts of Victoria",
-          "summary": "Bushfire and grassfire risk is expected to be raised from January in the north, west and far East Gippsland. Authorities are urging people to prepare now, including for floods and thunderstorm asthma.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-26/summer-bushfire-season-victoria-outlook/107429694"
+          "url": "https://www.abc.net.au/news/2026-11-27/aflw-grand-final-live-north-melbourne-kangaroos-melbourne-demons/107425444"
         }
       ]
     },
@@ -87,19 +81,19 @@
       "title": "World",
       "stories": [
         {
-          "headline": "Two Italian workers killed in drone strike on Kuwait",
-          "summary": "Italy says the two technicians died when drones hit an air-defence surveillance station. Kuwait described the attack as Iranian, while Iran denies any involvement.",
-          "source": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"
+          "headline": "Italy says drone in deadly Kuwait strike was made in Iran",
+          "summary": "Italy's foreign minister says Kuwaiti investigators have confirmed where the drone that killed two Italians was made. Iran denies launching it and has offered to join an inquiry.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
         },
         {
-          "headline": "Zelenskyy warns another major Russian strike is coming",
-          "summary": "Citing intelligence, Ukraine's president says Russia is preparing a large attack on power, logistics and other critical services. The warning came as a US envoy said peace talks were deadlocked over territory.",
-          "source": "Associated Press (via Decatur Daily)",
-          "url": "https://www.decaturdaily.com/news/other_news/international/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/article_90c39308-2f3e-4d55-ac94-a94513ecad80.html"
+          "headline": "Israeli strike on MSF clinic in Gaza kills two staff",
+          "summary": "Doctors Without Borders says its clearly marked Gaza City clinic took a direct hit that killed two watchmen. Al Jazeera reports Israel's military claimed, without evidence, that they were Hamas members.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
         }
       ]
     }
   ],
-  "thought": "Democracy is a good time to read the fine print, and a good day to have your say."
+  "thought": "Every count starts with a single ballot; patience beats the first projection."
 }
